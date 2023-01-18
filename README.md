@@ -13,6 +13,24 @@ Realizar la implementación de varias maneras:
 - Utilizando Symbol.iterator
 
 
+### Get started
+
+```
+$ npm install 
+```
+
+Execute inline.
+```
+$ npm run execute
+```
+
+Compile files.
+```
+$ npm run compile
+$ node dist/index.js
+```
+
+
 ### Authors
 - Nuria Casas
 - Jose Cárcamo
